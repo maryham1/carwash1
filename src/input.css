@@ -23,6 +23,7 @@
     
     .navbar-menu.active{
         @apply flex
+
      }
     .navbar-toggle.active  .bar:nth-child(2){
         @apply opacity-0
